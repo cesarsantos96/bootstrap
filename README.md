@@ -23,3 +23,9 @@
     -Create tables efficiently using Bootstrap;
     -Explore the styling classes offered by Bootstrap to improve the visual presentation of tables;
     - Adjust the width and spacing of tables to ensure they fit harmoniously into a website's layout.
+
+## Develop buttons
+
+    - Create buttons effectively using Bootstrap;
+    - Explore the styling options offered by Bootstrap to customize button design, including sizes, background colors, and borders;
+    - Understand how to use buttons efficiently on a website or application.
