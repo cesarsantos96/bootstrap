@@ -2,15 +2,15 @@
 
 ## Getting to know Bootstrap
 
-    - Understand the fundamental concepts of Bootstrap;
-    - Implement Bootstrap in a web project;
-    - Explore the possibilities offered by Bootstrap to speed up website development.
+ Understand the fundamental concepts of Bootstrap;
+ Implement Bootstrap in a web project;
+ Explore the possibilities offered by Bootstrap to speed up website development.
 
 ## Develop Grids
 
-    - Master the Bootstrap grid system;
-    - Create grid structures using Bootstrap;
-    - Explore the use of Bootstrap classes and shortcuts to speed up the development of complex page layouts.
+ Master the Bootstrap grid system;
+ Create grid structures using Bootstrap;
+ Explore the use of Bootstrap classes and shortcuts to speed up the development of complex page layouts.
 
 ## Develop typography
 
@@ -26,6 +26,12 @@
 
 ## Develop buttons
 
-    - Create buttons effectively using Bootstrap;
-    - Explore the styling options offered by Bootstrap to customize button design, including sizes, background colors, and borders;
-    - Understand how to use buttons efficiently on a website or application.
+ Create buttons effectively using Bootstrap;
+ Explore the styling options offered by Bootstrap to customize button design, including sizes, background colors, and borders;
+ Understand how to use buttons efficiently on a website or application.
+
+## Develop accordions
+
+Create accordion components in Bootstrap;
+Understand how to apply custom styles to accordions using classes provided by Bootstrap;
+Explore the use of custom attributes to control the expansion and contraction behavior of accordions.
