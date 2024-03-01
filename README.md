@@ -14,15 +14,15 @@
 
 ## Develop typography
 
-    - Understand how Bootstrap makes it easy to customize typography in a web project;
-    - Use Bootstrap classes to style different text elements,
-    - Explore the style variations available in Bootstrap to modify font size, weight, and other properties.
+ Understand how Bootstrap makes it easy to customize typography in a web project;
+ Use Bootstrap classes to style different text elements,
+ Explore the style variations available in Bootstrap to modify font size, weight, and other properties.
 
 ## Develop tables
-    
-    -Create tables efficiently using Bootstrap;
-    -Explore the styling classes offered by Bootstrap to improve the visual presentation of tables;
-    - Adjust the width and spacing of tables to ensure they fit harmoniously into a website's layout.
+
+Create tables efficiently using Bootstrap;
+Explore the styling classes offered by Bootstrap to improve the visual presentation of tables;
+ Adjust the width and spacing of tables to ensure they fit harmoniously into a website's layout.
 
 ## Develop buttons
 
