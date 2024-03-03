@@ -35,3 +35,8 @@ Explore the styling classes offered by Bootstrap to improve the visual presentat
 Create accordion components in Bootstrap;
 Understand how to apply custom styles to accordions using classes provided by Bootstrap;
 Explore the use of custom attributes to control the expansion and contraction behavior of accordions.
+
+##Develop collapse
+
+Understand how to create and control element collapse behavior using Bootstrap classes;
+Master the customization of collapsible elements to ensure the presentation is visually appropriate and effective within the website layout.
