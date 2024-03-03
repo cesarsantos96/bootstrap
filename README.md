@@ -46,3 +46,9 @@ Master the customization of collapsible elements to ensure the presentation is v
 Understand how to create alerts and informative messages in a simple and effective way using Bootstrap classes;
 Apply different styles of alerts using specific Bootstrap classes to highlight different types of messages;
 Master adding interactive functionality to alerts.
+
+## Develop forms
+
+Create a form using Bootstrap resources;
+Apply Bootstrap classes to form elements to improve layout and usability;
+Understand creating interactive elements on the form to style these elements in an attractive and functional way.
